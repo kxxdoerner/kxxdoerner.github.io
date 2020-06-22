@@ -10,6 +10,7 @@ My favourite band is Deep Purple. It is an english band founded in 1968 (or 69?)
 - Child in time
 - Soldier of fortune
 - Lady double dealer
-## Movies
-Film 1
-Movie 2
+## Quotes
+As Johann Wolfgang von Goethe said:
+> I’ve always been more interested
+> in the future than in the past.
