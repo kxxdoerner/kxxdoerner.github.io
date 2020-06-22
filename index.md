@@ -15,4 +15,4 @@ As Johann Wolfgang von Goethe said:
 > I’ve always been more interested
 > in the future than in the past.
 
-<img src=https://diginights.com/img/resize/1000x250/uploads/images/event/2017/06/06/2017-06-06-deep-purple-infinite-the-long-goodbye-tour-koeln-warsteiner-hockeypark/headline_image-default-1.jpg/>
+<img src="https://diginights.com/img/resize/1000x250/uploads/images/event/2017/06/06/2017-06-06-deep-purple-infinite-the-long-goodbye-tour-koeln-warsteiner-hockeypark/headline_image-default-1.jpg"/>
